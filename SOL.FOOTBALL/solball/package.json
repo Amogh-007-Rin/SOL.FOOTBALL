@@ -1,0 +1,23 @@
+{
+  "name": "solball",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.32.1",
+    "@solana/web3.js": "^1.98.4",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^24.9.1",
+    "chai": "^6.2.0",
+    "mocha": "^11.7.4"
+  }
+}
