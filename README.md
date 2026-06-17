@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚽ Sol Ball
+# ⚽ Sol Football
 
 ### Real-Time Physics-Based Football on Solana
 
